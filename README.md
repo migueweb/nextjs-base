@@ -24,19 +24,8 @@ This is a [Next.js 14](https://nextjs.org/) (app router) template without boiler
 ## How to use
 
 ### Use as a github template
-<a href="https://github.com/new?template_name=nextjs-base&template_owner=migueweb" style="
-  display: inline-block;
-  padding: 6px 16px;
-  font-size: 14px;
-  color: #f6faf7;
-  background-color: #238636;
-  border: 1px solid #ffffff1a;
-  border-radius: 6px;
-  text-align: center;
-  text-decoration: none;
-  transition: background-color 0.15s ease-in-out;
-">
-  Click to use
+<a href="https://github.com/new?template_name=nextjs-base&template_owner=migueweb">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Click%20to%20use-238636?style=for-the-badge">
 </a>
 
 
