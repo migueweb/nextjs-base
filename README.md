@@ -30,21 +30,28 @@ This is a [Next.js 14](https://nextjs.org/) (app router) template without boiler
 
 
 ### Use the template with create-next-app
-To create a new project based on this template using create-next-app, run the following command:
+To create a new project based on this template using create-next-app, run one of the following command:
+
+Using npm
 ```bash
 npx create-next-app -e https://github.com/migueweb/nextjs-base
 ```
-
-### Install dependencies
-
-You can use one of them `npm`, `yarn`, `pnpm`, `bun`, Example using `npm`:
-
+Using pnpm
 ```bash
-npm install
+pnpm create next-app -e https://github.com/migueweb/nextjs-base
+```
+Using yarn
+```bash
+yarn create next-app -e https://github.com/migueweb/nextjs-base
+```
+Using bun
+```bash
+bun create next-app -e https://github.com/migueweb/nextjs-base
 ```
 
-### Run the development server
 
+### Run the development server
+You can use one of them npm, yarn, pnpm, bun, Example using npm:
 ```bash
 npm run dev
 ```
